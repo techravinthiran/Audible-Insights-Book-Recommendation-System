@@ -169,16 +169,16 @@ cython_debug/
 .streamlit/
 
 # Data files
-*.csv
+# *.csv
 *.xlsx
 *.xls
 *.json
 *.xml
-data/
+# data/
 raw_data/
 
 # Model files
-*.pkl
+# *.pkl
 *.pickle
 *.joblib
 *.h5
